@@ -1,0 +1,36 @@
+ZCZC STAMTS ALL
+NWUS21 KWNS 201928
+
+TORNADO TOTALS AND RELATED DEATHS...THROUGH 07 MAY 2020
+NWS STORM PREDICTION CENTER NORMAN OK
+0100 PM CDT FRI MAY 08 2020
+
+     ...NUMBER OF TORNADOES...       NUMBER OF       KILLER
+                                     TORNADO DEATHS  TORNADOES
+     ..2020..  2019 2018 2017   3YR              3YR             3YR
+    PREL  ACT   ACT  ACT  ACT    AV   20 19 18 17 AV  20 19 18 17 AV
+--- ---- ----  ---- ---- ---- -----   -- -- -- -- --  -- -- -- -- --
+JAN   90    -    21   15  137    57    7  0  0 20  6   3  0  0  3  1
+FEB   51    -    26   48   69    47    1  1  2  5  2   1  1  2  4  3
+MAR  101    -   107   55  192   118   25 23  0  0  7   3  1  0  0  0
+APR  351    -   272  130  214   205   40  7  1  8  5  14  4  1  5  3
+MAY    8    -   506  170  291   322    -  7  1  2  3   -  4  1  2  2
+JUN    -    -   172  155  146   157    -  0  0  0  0   -  0  0  0  0
+JUL    -    -    99   92   81    90    -  0  1  0  0   -  0  1  0  0
+AUG    -    -    73   81  119    91    -  0  0  0  0   -  0  0  0  0
+SEP    -    -   87*  108   51   82*    -  0  1  0  0   -  0  1  0  0
+OCT    -    -   66*  123   75   88*    -  0  0  0  0   -  0  0  0  0
+NOV    -    -   19*   83   42   48*    -  0  3  0  1   -  0  2  0  0
+DEC    -    -   72*   66   12   50*    -  3  1  0  1   -  2  1  0  1
+--- ---- ---- ----- ---- ---- -----   -- -- -- -- --  -- -- -- -- --
+SUM  601    - 1520* 1126 1429 1355*   73 41 10 35 25  21 12  9 14 10
+
+*PRELIMINARY REPORTS.
+^PRELIMINARY/INCOMPLETE VERSION OF FINAL COUNTS.
+
+PREL = 2020 PRELIMINARY COUNT FROM ALL NWS LOCAL STORM REPORTS.
+ACT  = ACTUAL TORNADO COUNT BASED ON NWS STORM DATA SUBMISSIONS.
+
+COMPARISONS BETWEEN PRELIMINARY AND ACTUAL COUNTS SHOULD BE AVOIDED.
+
+..MARSH..05/08/2020

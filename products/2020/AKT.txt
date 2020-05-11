@@ -1,0 +1,56 @@
+2020 PRELIMINARY KILLER TORNADOES
+NWS STORM PREDICTION CENTER NORMAN OK
+0100 PM CDT FRI MAY 08 2020
+
+#    DATE TIME-CST  COUNTIES  STATE DEATHS  A B C D  WATCH EF LOCATION
+--   ---- -------- ---------  ----- ------  -------  ----- -- --------
+01 JAN 10  2330  NACOGDOCHES     TX      1  1 - - -  WT005  1 01M
+02 JAN 11  0145      BOSSIER     LA      3  3 - - -  WT005  2 03M
+03 JAN 11  1115      PICKENS     AL      3  3 - - -  WT013  2 03M
+04 FEB 06  0214      MARENGO     AL      1  1 - - -  WT025  1 01M
+05 MAR 02  2310       BENTON     TN      1  - - 1 -  WT035  2 01M
+06 MAR 03  0045    DAVIDSON/     TN      2  2 - - -  WT036  3 02O
+           0100       WILSON     TN      3  3 - - -  WT036  3 02H 01P
+07 MAR 03  0150       PUTNAM     TN     19 19 - - -  WT036  4 12H 05M
+                                                              02P
+08 APR 12  1500    WALTHALL/     MS      2  2 - - -  WT107  4 02U
+                    LAWRENCE     MS      2  2 - - -  WT107  4 02M
+09 APR 12  1520   JEFFERSON-
+                      DAVIS/     MS      4  4 - - -  WT107  4 04P
+                       JONES     MS      4  4 - - -  WT107  4 04U
+10 APR 12  1950       MURRAY     GA      7  7 - - -  WT112  2 07M
+11 APR 12  2120     HAMILTON     TN      3  - - 3 -  WT113  3 03U
+12 APR 12  2315       BARTOW     GA      1  1 - - -  WT115  1 01H
+13 APR 13  0120       OCONEE     SC      1  1 - - -  WT116  3 01U
+14 APR 13  0345   ORANGEBURG     SC      2  2 - - -  WT117  3 02M
+15 APR 13  0410      HAMPTON     SC      5  5 - - -  WT117  4 05M
+16 APR 13  0450     COLLETON     SC      1  1 - - -  WT117  1 01U
+17 APR 19  1830       MARION     MS      1  1 - - -  WT121  4 01M
+18 APR 19  2245        HENRY     AL      1  1 - - -  WT125  2 01M
+19 APR 22  1600     MARSHALL     OK      2  2 - - -  WT134  2 01V 01O
+20 APR 22  1650         POLK     TX      3  3 - - -  WT133  3 03U
+21 APR 22  2030      RAPIDES     LA      1  1 - - -  WT135  2 01M
+                                       ___ __ _ _ _
+TOTALS:                                 73 69 - 4 -
+
+FATALITIES BY STATE: TN28 MS13 SC09 GA08 AL05 TX04 LA04 OK02
+FATALITIES BY CIRCUMSTANCE/LOCATION: 33M 15H 07P 03O 01V 14U
+
+A = IN TORNADO WATCH
+B = IN SEVERE THUNDERSTORM WATCH
+C = CLOSE TO THE WATCH /15 MINUTES OR 25 MILES/
+D = NO WATCH IN EFFECT
+H = HOUSE
+M = MOBILE HOME
+O = OUTDOORS
+P = PERMANENT BUILDING/STRUCTURE
+V = VEHICLE
+U = UNKNOWN
+WS = SEVERE THUNDERSTORM WATCH /NUMBER/
+WT = TORNADO WATCH /NUMBER/
+EF = ENHANCED FUJITA SCALE RATING
+
+MAP OF ANNUAL U.S. KILLER TORNADOES (LOWER CASE):
+HTTP://WWW.SPC.NOAA.GOV/CLIMO/TORN/FATALMAP.PHP
+
+..MARSH..05/08/2020
