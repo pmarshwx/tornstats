@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<fatalities>
+<fatalities yrnum="1" date="2018-02-24" dt="February 24, 2018" time="15:53:00" tz="cst" location="LOGAN" st="KY" deaths="1" intor="0" insvr="0" nrsvr="1" nowatch="0" watch="WT0005" ef="2" h="1" m="0" o="0" p="0" v="0" unk="0" slat="36.6440" slon="-87.0050" elat="36.7210" elon="-86.8180"/>
+<fatalities yrnum="2" date="2018-02-24" dt="February 24, 2018" time="17:21:00" tz="cst" location="CLAY" st="AR" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0005" ef="2" h="0" m="1" o="0" p="0" v="0" unk="0" slat="36.3001" slon="-90.6333" elat="36.5567" elon="-89.9556"/>
+<fatalities yrnum="3" date="2018-04-13" dt="April 13, 2018" time="23:10:00" tz="cst" location="BOSSIER" st="LA" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0045" ef="1" h="0" m="0" o="0" p="0" v="1" unk="0" slat="32.4521" slon="-93.8531" elat="32.6070" elon="-93.5129"/>
+<fatalities yrnum="4" date="2018-05-15" dt="May 15, 2018" time="14:16:00" tz="cst" location="ORANGE" st="NY" deaths="1" intor="0" insvr="1" nrsvr="0" nowatch="0" watch="WS0095" ef="0" h="0" m="0" o="0" p="0" v="1" unk="0" slat="41.5359" slon="-74.0123" elat="41.5361" elon="-73.9999"/>
+<fatalities yrnum="5" date="2018-07-10" dt="July 10, 2018" time="23:45:00" tz="cst" location="MCKENZIE" st="ND" deaths="1" intor="0" insvr="1" nrsvr="0" nowatch="0" watch="WS0268" ef="2" h="0" m="1" o="0" p="0" v="0" unk="0" slat="47.7814" slon="-103.2950" elat="47.7810" elon="-103.2837"/>
+<fatalities yrnum="6" date="2018-09-17" dt="September 17, 2018" time="13:38:00" tz="cst" location="CHESTERFIELD" st="VA" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0382" ef="2" h="0" m="0" o="0" p="1" v="0" unk="0" slat="37.4065" slon="-77.6107" elat="37.5101" elon="-77.5635"/>
+<fatalities yrnum="7" date="2018-11-02" dt="November 2, 2018" time="19:42:00" tz="cst" location="BALTIMORE" st="MD" deaths="2" intor="0" insvr="0" nrsvr="0" nowatch="0" watch="None" ef="1" h="0" m="0" o="0" p="2" v="0" unk="0" slat="39.2700" slon="-76.5552" elat="39.2740" elon="-76.5080"/>
+<fatalities yrnum="8" date="2018-11-06" dt="November 6, 2018" time="00:16:00" tz="cst" location="RUTHERFORD" st="TN" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0423" ef="2" h="1" m="0" o="0" p="0" v="0" unk="0" slat="35.6504" slon="-86.5305" elat="35.7043" elon="-86.3988"/>
+<fatalities yrnum="9" date="2018-12-01" dt="December 1, 2018" time="00:30:00" tz="cst" location="LAWRENCE" st="MO" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0431" ef="1" h="0" m="0" o="0" p="1" v="0" unk="0" slat="38.9438" slon="-93.7219" elat="38.9494" elon="-93.7191"/>
+<summary STATE="MD" FATALITIES="2"/>
+<summary STATE="AR" FATALITIES="1"/>
+<summary STATE="KY" FATALITIES="1"/>
+<summary STATE="LA" FATALITIES="1"/>
+<summary STATE="MO" FATALITIES="1"/>
+<summary STATE="ND" FATALITIES="1"/>
+<summary STATE="NY" FATALITIES="1"/>
+<summary STATE="TN" FATALITIES="1"/>
+<summary STATE="VA" FATALITIES="1"/>
+<csummary P="4" H="2" M="2" V="2" O="0" UNK="0"/>
+<total TOTAL="10"/>
+</fatalities>

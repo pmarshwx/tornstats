@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<fatalities>
+<fatalities yrnum="1" date="2019-02-23" dt="February 23, 2019" time="17:30:00" tz="cst" location="LOWNDES" st="MS" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0005" ef="3" h="0" m="0" o="0" p="1" v="0" unk="0" slat="33.4900" slon="-88.4300" elat="33.5500" elon="-88.2800"/>
+<fatalities yrnum="2" date="2019-03-03" dt="March 03, 2019" time="22:30:00" tz="cst" location="LEE" st="AL" deaths="23" intor="23" insvr="0" nrsvr="0" nowatch="0" watch="WT0007" ef="4" h="4" m="19" o="0" p="0" v="0" unk="0" slat="32.4472" slon="-85.4818" elat="32.5750" elon="-85.0570"/>
+<fatalities yrnum="3" date="2019-04-13" dt="April 13, 2019" time="12:00:00" tz="cst" location="HOUSTON-CHEROKEE" st="TX" deaths="2" intor="2" insvr="0" nrsvr="0" nowatch="0" watch="WT0053" ef="3" h="0" m="1" o="1" p="0" v="0" unk="0" slat="31.3997" slon="-95.3037" elat="31.9046" elon="-94.8587"/>
+<fatalities yrnum="4" date="2019-04-13" dt="April 13, 2019" time="22:15:00" tz="cst" location="MONROE" st="MS" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0055" ef="2" h="0" m="1" o="0" p="0" v="0" unk="0" slat="33.7248" slon="-88.4409" elat="33.8763" elon="-88.3807"/>
+<fatalities yrnum="5" date="2019-04-25" dt="April 25, 2019" time="00:47:00" tz="cst" location="LINCOLN" st="LA" deaths="2" intor="2" insvr="0" nrsvr="0" nowatch="0" watch="WT0100" ef="3" h="2" m="0" o="0" p="0" v="0" unk="0" slat="32.5112" slon="-92.6729" elat="32.5702" elon="-92.5845"/>
+<fatalities yrnum="6" date="2019-04-30" dt="April 30, 2019" time="21:10:00" tz="cst" location="BRYAN" st="OK" deaths="2" intor="2" insvr="0" nrsvr="0" nowatch="0" watch="WT0111" ef="3" h="0" m="2" o="0" p="0" v="0" unk="0" slat="33.9800" slon="-96.2000" elat="34.3200" elon="-95.9700"/>
+<fatalities yrnum="7" date="2019-05-22" dt="May 22, 2019" time="00:30:00" tz="cst" location="ADAIR" st="IA" deaths="1" intor="0" insvr="0" nrsvr="0" nowatch="1" watch="None" ef="2" h="1" m="0" o="0" p="0" v="0" unk="0" slat="41.4557" slon="-94.6249" elat="41.5240" elon="-94.6152"/>
+<fatalities yrnum="8" date="2019-05-22" dt="May 22, 2019" time="19:51:00" tz="cst" location="BARTON" st="MO" deaths="3" intor="3" insvr="0" nrsvr="0" nowatch="0" watch="WT0212" ef="3" h="2" m="1" o="0" p="0" v="0" unk="0" slat="37.3080" slon="-94.2343" elat="37.4305" elon="-94.0983"/>
+<fatalities yrnum="9" date="2019-05-25" dt="May 25, 2019" time="21:28:00" tz="cst" location="CANADIAN" st="OK" deaths="2" intor="0" insvr="2" nrsvr="0" nowatch="0" watch="WS0245" ef="3" h="0" m="2" o="0" p="0" v="0" unk="0" slat="35.4998" slon="-97.9549" elat="35.5100" elon="-97.9193"/>
+<fatalities yrnum="10" date="2019-05-27" dt="May 27, 2019" time="20:10:00" tz="cst" location="MERCER" st="OH" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0266" ef="3" h="1" m="0" o="0" p="0" v="0" unk="0" slat="40.5515" slon="-84.6911" elat="40.5921" elon="-84.4917"/>
+<fatalities yrnum="11" date="2019-12-16" dt="December 16, 2019" time="11:18:00" tz="cst" location="VERNON" st="LA" deaths="1" intor="0" insvr="0" nrsvr="0" nowatch="0" watch="WT0700" ef="3" h="0" m="1" o="0" p="0" v="0" unk="0" slat="30.8438" slon="-93.2676" elat="31.3542" elon="-92.4014"/>
+<fatalities yrnum="12" date="2019-12-16" dt="December 16, 2019" time="17:15:00" tz="cst" location="LAWRENCE" st="AL" deaths="2" intor="0" insvr="0" nrsvr="0" nowatch="0" watch="WT0702" ef="2" h="0" m="2" o="0" p="0" v="0" unk="0" slat="34.6445" slon="-87.4126" elat="34.7739" elon="-87.1283"/>
+<summary STATE="AL" FATALITIES="25"/>
+<summary STATE="OK" FATALITIES="4"/>
+<summary STATE="LA" FATALITIES="3"/>
+<summary STATE="MO" FATALITIES="3"/>
+<summary STATE="MS" FATALITIES="2"/>
+<summary STATE="TX" FATALITIES="2"/>
+<summary STATE="IA" FATALITIES="1"/>
+<summary STATE="OH" FATALITIES="1"/>
+<csummary M="29" H="10" O="1" P="1" V="0" UNK="0"/>
+<total TOTAL="41"/>
+</fatalities>

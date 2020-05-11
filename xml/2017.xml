@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<fatalities>
+<fatalities yrnum="1" date="2017-01-21" dt="January 21, 2017" time="03:50:00" tz="cst" location="FORREST" st="MS" deaths="4" intor="4" insvr="0" nrsvr="0" nowatch="0" watch="WT0010" ef="3" h="2" m="2" o="0" p="0" v="0" unk="0" slat="31.1855" slon="-89.4799" elat="31.4193" elon="-89.0342"/>
+<fatalities yrnum="2" date="2017-01-22" dt="January 22, 2017" time="02:30:00" tz="cst" location="BROOKS-COOK-BERRIEN" st="GA" deaths="11" intor="11" insvr="0" nrsvr="0" nowatch="0" watch="WT0019" ef="3" h="2" m="9" o="0" p="0" v="0" unk="0" slat="30.9998" slon="-83.5841" elat="31.1557" elon="-83.2095"/>
+<fatalities yrnum="3" date="2017-01-22" dt="January 22, 2017" time="14:20:00" tz="cst" location="DOUGHERTY" st="GA" deaths="5" intor="5" insvr="0" nrsvr="0" nowatch="0" watch="WT0021" ef="3" h="2" m="3" o="0" p="0" v="0" unk="0" slat="31.4373" slon="-84.3447" elat="31.9924" elon="-83.3474"/>
+<fatalities yrnum="4" date="2017-02-07" dt="February 7, 2017" time="11:14:00" tz="cst" location="ST. JAMES" st="LA" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0026" ef="1" h="0" m="0" o="1" p="0" v="0" unk="0" slat="30.1000" slon="-91.0000" elat="30.1000" elon="-90.9000"/>
+<fatalities yrnum="5" date="2017-02-28" dt="February 28, 2017" time="16:50:00" tz="cst" location="LA SALLE" st="IL" deaths="2" intor="2" insvr="0" nrsvr="0" nowatch="0" watch="WT0042" ef="3" h="0" m="0" o="2" p="0" v="0" unk="0" slat="41.3239" slon="-88.9504" elat="41.3597" elon="-88.7352"/>
+<fatalities yrnum="6" date="2017-02-28" dt="February 28, 2017" time="20:00:00" tz="cst" location="PERRY" st="MO" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0041" ef="4" h="0" m="0" o="0" p="0" v="1" unk="0" slat="37.7385" slon="-89.9466" elat="37.8222" elon="-89.7124"/>
+<fatalities yrnum="7" date="2017-02-28" dt="February 28, 2017" time="22:00:00" tz="cst" location="WHITE" st="IL" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0046" ef="3" h="1" m="0" o="0" p="0" v="0" unk="0" slat="38.1370" slon="-88.1148" elat="38.1797" elon="-87.9474"/>
+<fatalities yrnum="8" date="2017-04-02" dt="April 2, 2017" time="08:47:00" tz="cst" location="ST. MARTIN" st="LA" deaths="2" intor="0" insvr="0" nrsvr="0" nowatch="2" watch="NONE" ef="1" h="0" m="2" o="0" p="0" v="0" unk="0" slat="30.2676" slon="-91.8532" elat="30.2756" elon="-91.8436"/>
+<fatalities yrnum="9" date="2017-04-03" dt="April 3, 2017" time="13:23:00" tz="cst" location="UNION" st="SC" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0119" ef="1" h="0" m="1" o="0" p="0" v="0" unk="0" slat="34.5860" slon="-81.6020" elat="34.5860" elon="-81.5940"/>
+<fatalities yrnum="10" date="2017-04-29" dt="April 29, 2017" time="16:55:00" tz="cst" location="VAN ZANDT" st="TX" deaths="2" intor="2" insvr="0" nrsvr="0" nowatch="0" watch="WT0175" ef="4" h="1" m="0" o="0" p="1" v="0" unk="0" slat="32.2572" slon="-96.0180" elat="32.5528" elon="-95.9306"/>
+<fatalities yrnum="11" date="2017-04-29" dt="April 29, 2017" time="17:20:00" tz="cst" location="VAN ZANDT" st="TX" deaths="2" intor="2" insvr="0" nrsvr="0" nowatch="0" watch="WT0175" ef="3" h="0" m="0" o="0" p="0" v="2" unk="0" slat="32.3991" slon="-95.8756" elat="32.9540" elon="-95.6987"/>
+<fatalities yrnum="12" date="2017-04-30" dt="April 30, 2017" time="08:30:00" tz="cst" location="HOLMES" st="MS" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0181" ef="2" h="0" m="1" o="0" p="0" v="0" unk="0" slat="32.8556" slon="-90.0951" elat="33.1050" elon="-89.8245"/>
+<fatalities yrnum="13" date="2017-05-16" dt="May 16, 2017" time="16:24:00" tz="cst" location="BARRON" st="WI" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0222" ef="3" h="0" m="1" o="0" p="0" v="0" unk="0" slat="45.2529" slon="-92.1619" elat="45.3913" elon="-90.4975"/>
+<fatalities yrnum="14" date="2017-05-16" dt="May 16, 2017" time="17:55:00" tz="cst" location="BECKHAM" st="OK" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0220" ef="2" h="0" m="0" o="0" p="0" v="1" unk="0" slat="35.2400" slon="-99.5500" elat="35.4100" elon="-99.3300"/>
+<summary STATE="GA" FATALITIES="16"/>
+<summary STATE="MS" FATALITIES="5"/>
+<summary STATE="TX" FATALITIES="4"/>
+<summary STATE="IL" FATALITIES="3"/>
+<summary STATE="LA" FATALITIES="3"/>
+<summary STATE="MO" FATALITIES="1"/>
+<summary STATE="OK" FATALITIES="1"/>
+<summary STATE="SC" FATALITIES="1"/>
+<summary STATE="WI" FATALITIES="1"/>
+<csummary M="19" H="8" V="4" O="3" P="1" UNK="0"/>
+<total TOTAL="35"/>
+</fatalities>
