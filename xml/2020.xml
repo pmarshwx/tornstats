@@ -21,14 +21,15 @@
 <fatalities yrnum="19" date="2020-04-22" dt="April 22, 2020" time="16:00:00" tz="cst" location="MARSHALL" st="OK" deaths="2" intor="2" insvr="0" nrsvr="0" nowatch="0" watch="WT0134" ef="2" h="0" m="0" o="1" p="0" v="1" unk="0" slat="34.0700" slon="-96.8100" elat="34.0700" elon="-96.7400"/>
 <fatalities yrnum="20" date="2020-04-22" dt="April 22, 2020" time="16:50:00" tz="cst" location="POLK" st="TX" deaths="3" intor="3" insvr="0" nrsvr="0" nowatch="0" watch="WT0133" ef="3" h="0" m="0" o="0" p="0" v="0" unk="3" slat="30.8283" slon="-95.2418" elat="30.8811" elon="-94.7046"/>
 <fatalities yrnum="21" date="2020-04-22" dt="April 22, 2020" time="20:30:00" tz="cst" location="RAPIDES" st="LA" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0135" ef="2" h="0" m="1" o="0" p="0" v="0" unk="0" slat="31.1623" slon="-92.4582" elat="31.1922" elon="-92.3103"/>
+<fatalities yrnum="22" date="2020-05-19" dt="May 18, 2020" time="19:35:00" tz="cst" location="ACADIA" st="LA" deaths="1" intor="0" insvr="0" nrsvr="0" nowatch="1" watch="None"" ef="3" h="0" m="1" o="0" p="0" v="0" unk="1" slat="30.4597" slon="-92.2678" elat="30.4176" elon="-92.2234"/>
 <summary STATE="TN" FATALITIES="28"/>
 <summary STATE="MS" FATALITIES="13"/>
 <summary STATE="SC" FATALITIES="9"/>
 <summary STATE="GA" FATALITIES="8"/>
 <summary STATE="AL" FATALITIES="5"/>
-<summary STATE="LA" FATALITIES="4"/>
+<summary STATE="LA" FATALITIES="5"/>
 <summary STATE="TX" FATALITIES="4"/>
 <summary STATE="OK" FATALITIES="2"/>
-<csummary M="33" H="15" UNK="14" P="7" O="3" V="1"/>
-<total TOTAL="73"/>
+<csummary M="34" H="15" UNK="15" P="7" O="3" V="1"/>
+<total TOTAL="74"/>
 </fatalities>
