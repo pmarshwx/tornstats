@@ -1,9 +1,9 @@
 ZCZC STAMTS ALL
 NWUS21 KWNS 201928
 
-TORNADO TOTALS AND RELATED DEATHS...THROUGH 15 OCT 2020
+TORNADO TOTALS AND RELATED DEATHS...THROUGH 18 OCT 2020
 NWS STORM PREDICTION CENTER NORMAN OK
-400 PM CDT FRI OCT 16 2020
+400 PM CDT MON OCT 19 2020
 
      ...NUMBER OF TORNADOES...       NUMBER OF       KILLER
                                      TORNADO DEATHS  TORNADOES
@@ -19,11 +19,11 @@ JUN  109    -   172  155  146   157    0  0  0  0  0   0  0  0  0  0
 JUL  116    -    99   92   81    90    1  0  1  0  0   1  0  1  0  0
 AUG  169    -    73   81  119    91    3  0  0  0  0   2  0  0  0  0
 SEP   37    -   87*  108   51   82*    -  0  1  0  0   -  0  1  0  0
-OCT   16    -   66*  123   75   88*    -  0  0  0  0   -  0  0  0  0
+OCT   17    -   66*  123   75   88*    -  0  0  0  0   -  0  0  0  0
 NOV    -    -   19*   83   42   48*    -  0  3  0  1   -  0  2  0  0
 DEC    -    -   72*   66   12   50*    -  3  1  0  1   -  2  1  0  1
 --- ---- ---- ----- ---- ---- -----   -- -- -- -- --  -- -- -- -- --
-SUM 1180    - 1520* 1126 1429 1355*   78 41 10 35 25  25 12  9 14 10
+SUM 1181    - 1520* 1126 1429 1355*   78 41 10 35 25  25 12  9 14 10
 
 *PRELIMINARY REPORTS.
 ^PRELIMINARY/INCOMPLETE VERSION OF FINAL COUNTS.
@@ -33,4 +33,4 @@ ACT  = ACTUAL TORNADO COUNT BASED ON NWS STORM DATA SUBMISSIONS.
 
 COMPARISONS BETWEEN PRELIMINARY AND ACTUAL COUNTS SHOULD BE AVOIDED.
 
-..MARSH..10/16/2020
+..MARSH..10/18/2020
