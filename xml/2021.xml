@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<fatalities>
+<fatalities yrnum="1" date="2021-01-25" dt="January 25, 2021" time="22:45:00" tz="cst" location="JEFFERSON" st="AL" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0003" ef="3" h="1" m="0" o="0" p="0" v="0" unk="0" slat="33.5971" slon="-86.8246" elat="33.6539" elon="-86.6810"/>
+<summary STATE="AL" FATALITIES="1"/>
+<csummary H="1" M="0" O="0" P="0" V="0" UNK="0"/>
+<total TOTAL="1"/>
+</fatalities>
