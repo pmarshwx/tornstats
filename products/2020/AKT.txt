@@ -1,4 +1,4 @@
-2020 PRELIMINARY KILLER TORNADOES
+2021 PRELIMINARY KILLER TORNADOES
 NWS STORM PREDICTION CENTER NORMAN OK
 1200 PM CST SUN FEB 7 2021
 
@@ -35,7 +35,7 @@ NWS STORM PREDICTION CENTER NORMAN OK
 23 AUG 03  2315       BERTIE     NC      2  2 - - -  WT414  3 02M
 24 AUG 30  1715         HAND     SD      1  - 1 - -  WS475  2 01V
                                        ___ __ _ _ _
-TOTALS:                                 76 70 2 3 1
+TOTALS:                                  1  1 - - -
 
 FATALITIES BY STATE: TN27 MS12 GA09 SC08 AL05 LA05 TX04 NC02 OK02
                      MN01 SD01
