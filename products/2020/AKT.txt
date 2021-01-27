@@ -13,33 +13,33 @@ NWS STORM PREDICTION CENTER NORMAN OK
            0100       WILSON     TN      3  3 - - -  WT036  3 02H 01P
 07 MAR 03  0150       PUTNAM     TN     19 19 - - -  WT036  4 12H 05M
                                                               02P
-08 APR 12  1500    WALTHALL/     MS      2  2 - - -  WT107  4 02U
+08 APR 12  1500    WALTHALL/     MS      2  2 - - -  WT107  4 01H 01O
                     LAWRENCE     MS      2  2 - - -  WT107  4 02M
 09 APR 12  1520   JEFFERSON-
                       DAVIS/     MS      4  4 - - -  WT107  4 04P
-                       JONES     MS      4  4 - - -  WT107  4 04U
-10 APR 12  1950       MURRAY     GA      7  7 - - -  WT112  2 07M
-11 APR 12  2120     HAMILTON     TN      3  - - 3 -  WT113  3 03U
+                       JONES     MS      3  3 - - -  WT107  4 01M 01H
+                                                              01U
+10 APR 12  1950       MURRAY     GA      8  8 - - -  WT112  2 08M
+11 APR 12  2120     HAMILTON     TN      2  - - 2 -  WT113  3 01M 01H
 12 APR 12  2315       BARTOW     GA      1  1 - - -  WT115  1 01H
-13 APR 13  0120       OCONEE     SC      1  1 - - -  WT116  3 01U
+13 APR 13  0120       OCONEE     SC      1  1 - - -  WT116  3 01P
 14 APR 13  0345   ORANGEBURG     SC      2  2 - - -  WT117  3 02M
 15 APR 13  0410      HAMPTON     SC      5  5 - - -  WT117  4 05M
-16 APR 13  0450     COLLETON     SC      1  1 - - -  WT117  1 01U
-17 APR 19  1830       MARION     MS      1  1 - - -  WT121  4 01M
-18 APR 19  2245        HENRY     AL      1  1 - - -  WT125  2 01M
-19 APR 22  1600     MARSHALL     OK      2  2 - - -  WT134  2 01V 01O
-20 APR 22  1650         POLK     TX      3  3 - - -  WT133  3 03U
-21 APR 22  2030      RAPIDES     LA      1  1 - - -  WT135  2 01M
-22 MAY 17  1935       ACADIA     LA      1  - - - 1  -----  3 01M
-23 JUL 08  1610   OTTER TAIL     MN      1  - 1 - -  WS344  4 01P
-24 AUG 03  2315       BERTIE     NC      2  2 - - -  WT414  3 02M
-25 AUG 30  1715         HAND     SD      1  - 1 - -  WS475  2 01V
+16 APR 19  1830       MARION     MS      1  1 - - -  WT121  4 01M
+17 APR 19  2245        HENRY     AL      1  1 - - -  WT125  2 01M
+18 APR 22  1600     MARSHALL     OK      2  2 - - -  WT134  2 01V 01O
+19 APR 22  1650         POLK     TX      3  3 - - -  WT133  3 03U
+20 APR 22  2030      RAPIDES     LA      1  1 - - -  WT135  2 01M
+21 MAY 17  1935       ACADIA     LA      1  - - - 1  -----  3 01M
+22 JUL 08  1610   OTTER TAIL     MN      1  - 1 - -  WS344  4 01P
+23 AUG 03  2315       BERTIE     NC      2  2 - - -  WT414  3 02M
+24 AUG 30  1715         HAND     SD      1  - 1 - -  WS475  2 01V
                                        ___ __ _ _ _
-TOTALS:                                 78 71 2 4 1
+TOTALS:                                 76 70 2 3 1
 
-FATALITIES BY STATE: TN28 MS13 SC09 GA08 AL05 LA05 TX04 OK02 NC02
+FATALITIES BY STATE: TN27 MS12 GA09 SC08 AL05 LA05 TX04 NC02 OK02
                      MN01 SD01
-FATALITIES BY CIRCUMSTANCE/LOCATION: 36M 15H 08P 03O 02V 14U
+FATALITIES BY CIRCUMSTANCE/LOCATION: 39M 18H 09P 04O 02V 04U
 
 A = IN TORNADO WATCH
 B = IN SEVERE THUNDERSTORM WATCH
