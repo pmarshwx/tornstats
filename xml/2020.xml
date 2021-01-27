@@ -7,28 +7,27 @@
 <fatalities yrnum="5" date="2020-03-02" dt="March 2, 2020" time="23:10:00" tz="cst" location="BENTON" st="TN" deaths="1" intor="0" insvr="0" nrsvr="1" nowatch="0" watch="WT0035" ef="2" h="0" m="1" o="0" p="0" v="0" unk="0" slat="36.0923" slon="-88.1199" elat="36.1074" elon="-87.7838"/>
 <fatalities yrnum="6" date="2020-03-03" dt="March 3, 2020" time="00:45:00" tz="cst" location="DAVIDSON-WILSON" st="TN" deaths="5" intor="5" insvr="0" nrsvr="0" nowatch="0" watch="WT0036" ef="3" h="2" m="0" o="2" p="1" v="0" unk="0" slat="36.1717" slon="-86.9557" elat="36.1524" elon="-85.8905"/>
 <fatalities yrnum="7" date="2020-03-03" dt="March 3, 2020" time="01:50:00" tz="cst" location="PUTNAM" st="TN" deaths="19" intor="19" insvr="0" nrsvr="0" nowatch="0" watch="WT0036" ef="4" h="12" m="5" o="0" p="2" v="0" unk="0" slat="36.1716" slon="-85.6618" elat="36.1705" elon="-85.5154"/>
-<fatalities yrnum="8" date="2020-04-12" dt="April 12, 2020" time="15:00:00" tz="cst" location="WALTHALL-LAWRENCE" st="MS" deaths="4" intor="4" insvr="0" nrsvr="0" nowatch="0" watch="WT0107" ef="4" h="0" m="2" o="0" p="0" v="0" unk="2" slat="31.2763" slon="-90.1732" elat="31.4017" elon="-89.8505"/>
-<fatalities yrnum="9" date="2020-04-12" dt="April 12, 2020" time="15:20:00" tz="cst" location="JEFFERSON DAVIS-JONES" st="MS" deaths="8" intor="8" insvr="0" nrsvr="0" nowatch="0" watch="WT0107" ef="4" h="0" m="0" o="0" p="4" v="0" unk="4" slat="31.4641" slon="-89.7579" elat="32.0720" elon="-88.8649"/>
-<fatalities yrnum="10" date="2020-04-12" dt="April 12, 2020" time="19:50:00" tz="cst" location="MURRAY" st="GA" deaths="7" intor="7" insvr="0" nrsvr="0" nowatch="0" watch="WT0112" ef="2" h="0" m="7" o="0" p="0" v="0" unk="0" slat="34.8098" slon="-84.8377" elat="34.9103" elon="-84.7761"/>
-<fatalities yrnum="11" date="2020-04-12" dt="April 12, 2020" time="21:20:00" tz="cst" location="HAMILTON" st="TN" deaths="3" intor="0" insvr="0" nrsvr="3" nowatch="0" watch="WT0113" ef="3" h="0" m="0" o="0" p="0" v="0" unk="3" slat="34.9407" slon="-85.2582" elat="35.1040" elon="-84.9816"/>
+<fatalities yrnum="8" date="2020-04-12" dt="April 12, 2020" time="15:00:00" tz="cst" location="WALTHALL-LAWRENCE" st="MS" deaths="4" intor="4" insvr="0" nrsvr="0" nowatch="0" watch="WT0107" ef="4" h="1" m="2" o="1" p="0" v="0" unk="0" slat="31.2763" slon="-90.1732" elat="31.4017" elon="-89.8505"/>
+<fatalities yrnum="9" date="2020-04-12" dt="April 12, 2020" time="15:20:00" tz="cst" location="JEFFERSON DAVIS-JONES" st="MS" deaths="7" intor="7" insvr="0" nrsvr="0" nowatch="0" watch="WT0107" ef="4" h="1" m="1" o="0" p="4" v="0" unk="1" slat="31.4641" slon="-89.7579" elat="32.0720" elon="-88.8649"/>
+<fatalities yrnum="10" date="2020-04-12" dt="April 12, 2020" time="19:50:00" tz="cst" location="MURRAY" st="GA" deaths="8" intor="8" insvr="0" nrsvr="0" nowatch="0" watch="WT0112" ef="2" h="0" m="8" o="0" p="0" v="0" unk="0" slat="34.8098" slon="-84.8377" elat="34.9103" elon="-84.7761"/>
+<fatalities yrnum="11" date="2020-04-12" dt="April 12, 2020" time="21:20:00" tz="cst" location="HAMILTON" st="TN" deaths="2" intor="0" insvr="0" nrsvr="2" nowatch="0" watch="WT0113" ef="3" h="1" m="1" o="0" p="0" v="0" unk="0" slat="34.9407" slon="-85.2582" elat="35.1040" elon="-84.9816"/>
 <fatalities yrnum="12" date="2020-04-12" dt="April 12, 2020" time="23:15:00" tz="cst" location="BARTOW" st="GA" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0115" ef="1" h="1" m="0" o="0" p="0" v="0" unk="0" slat="34.1492" slon="-85.8285" elat="34.2857" elon="-85.6780"/>
-<fatalities yrnum="13" date="2020-04-13" dt="April 13, 2020" time="01:20:00" tz="cst" location="OCONEE" st="SC" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0116" ef="3" h="0" m="0" o="0" p="0" v="0" unk="1" slat="34.6175" slon="-83.0834" elat="34.7329" elon="-82.8263"/>
+<fatalities yrnum="13" date="2020-04-13" dt="April 13, 2020" time="01:20:00" tz="cst" location="OCONEE" st="SC" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0116" ef="3" h="0" m="0" o="0" p="1" v="0" unk="0" slat="34.6175" slon="-83.0834" elat="34.7329" elon="-82.8263"/>
 <fatalities yrnum="14" date="2020-04-13" dt="April 13, 2020" time="03:45:00" tz="cst" location="ORANGEBURG" st="SC" deaths="2" intor="2" insvr="0" nrsvr="0" nowatch="0" watch="WT0117" ef="3" h="0" m="2" o="0" p="0" v="0" unk="0" slat="33.3158" slon="-81.3944" elat="33.6240" elon="-80.9115"/>
 <fatalities yrnum="15" date="2020-04-13" dt="April 13, 2020" time="04:10:00" tz="cst" location="HAMPTON" st="SC" deaths="5" intor="5" insvr="0" nrsvr="0" nowatch="0" watch="WT0117" ef="4" h="0" m="5" o="0" p="0" v="0" unk="0" slat="32.7034" slon="-81.2896" elat="32.8290" elon="-80.9092"/>
-<fatalities yrnum="16" date="2020-04-13" dt="April 13, 2020" time="04:50:00" tz="cst" location="COLLETON" st="SC" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0117" ef="1" h="0" m="0" o="0" p="0" v="0" unk="1" slat="32.8791" slon="-80.7305" elat="32.9784" elon="-80.4560"/>
-<fatalities yrnum="17" date="2020-04-19" dt="April 19, 2020" time="18:30:00" tz="cst" location="MARION" st="MS" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0121" ef="4" h="0" m="1" o="0" p="0" v="0" unk="0" slat="31.0716" slon="-89.9644" elat="31.2338" elon="-89.0792"/>
-<fatalities yrnum="18" date="2020-04-19" dt="April 19, 2020" time="22:45:00" tz="cst" location="HENRY" st="AL" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0125" ef="2" h="0" m="1" o="0" p="0" v="0" unk="0" slat="31.3994" slon="-85.2790" elat="31.4370" elon="-85.2029"/>
-<fatalities yrnum="19" date="2020-04-22" dt="April 22, 2020" time="16:00:00" tz="cst" location="MARSHALL" st="OK" deaths="2" intor="2" insvr="0" nrsvr="0" nowatch="0" watch="WT0134" ef="2" h="0" m="0" o="1" p="0" v="1" unk="0" slat="34.0700" slon="-96.8100" elat="34.0700" elon="-96.7400"/>
-<fatalities yrnum="20" date="2020-04-22" dt="April 22, 2020" time="16:50:00" tz="cst" location="POLK" st="TX" deaths="3" intor="3" insvr="0" nrsvr="0" nowatch="0" watch="WT0133" ef="3" h="0" m="0" o="0" p="0" v="0" unk="3" slat="30.8283" slon="-95.2418" elat="30.8811" elon="-94.7046"/>
-<fatalities yrnum="21" date="2020-04-22" dt="April 22, 2020" time="20:30:00" tz="cst" location="RAPIDES" st="LA" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0135" ef="2" h="0" m="1" o="0" p="0" v="0" unk="0" slat="31.1623" slon="-92.4582" elat="31.1922" elon="-92.3103"/>
-<fatalities yrnum="22" date="2020-05-19" dt="May 18, 2020" time="19:35:00" tz="cst" location="ACADIA" st="LA" deaths="1" intor="0" insvr="0" nrsvr="0" nowatch="1" watch="None" ef="3" h="0" m="1" o="0" p="0" v="0" unk="0" slat="30.4597" slon="-92.2678" elat="30.4176" elon="-92.2234"/>
-<fatalities yrnum="23" date="2020-07-08" dt="July 8, 2020" time="16:10:00" tz="cst" location="OTTER TAIL" st="MN" deaths="1" intor="0" insvr="1" nrsvr="0" nowatch="0" watch="WS0344" ef="4" h="0" m="0" o="0" p="1" v="0" unk="0" slat="46.0953" slon="-95.9420" elat="46.1778" elon="-95.8120"/>
-<fatalities yrnum="24" date="2020-08-03" dt="August 3, 2020" time="23:15:00" tz="cst" location="BERTIE" st="NC" deaths="2" intor="2" insvr="0" nrsvr="0" nowatch="0" watch="WT0414" ef="3" h="0" m="2" o="0" p="0" v="0" unk="0" slat="35.8870" slon="-76.8900" elat="36.0140" elon="-76.9770"/>
-<fatalities yrnum="25" date="2020-08-30" dt="August 30, 2020" time="17:15:00" tz="cst" location="HAND" st="SD" deaths="1" intor="0" insvr="1" nrsvr="0" nowatch="0" watch="WS0475" ef="2" h="0" m="0" o="0" p="0" v="1" unk="0" slat="44.7090" slon="-98.9868" elat="44.7195" elon="-98.9998"/>
-<summary STATE="TN" FATALITIES="28"/>
-<summary STATE="MS" FATALITIES="13"/>
-<summary STATE="SC" FATALITIES="9"/>
-<summary STATE="GA" FATALITIES="8"/>
+<fatalities yrnum="16" date="2020-04-19" dt="April 19, 2020" time="18:30:00" tz="cst" location="MARION" st="MS" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0121" ef="4" h="0" m="1" o="0" p="0" v="0" unk="0" slat="31.0716" slon="-89.9644" elat="31.2338" elon="-89.0792"/>
+<fatalities yrnum="17" date="2020-04-19" dt="April 19, 2020" time="22:45:00" tz="cst" location="HENRY" st="AL" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0125" ef="2" h="0" m="1" o="0" p="0" v="0" unk="0" slat="31.3994" slon="-85.2790" elat="31.4370" elon="-85.2029"/>
+<fatalities yrnum="18" date="2020-04-22" dt="April 22, 2020" time="16:00:00" tz="cst" location="MARSHALL" st="OK" deaths="2" intor="2" insvr="0" nrsvr="0" nowatch="0" watch="WT0134" ef="2" h="0" m="0" o="1" p="0" v="1" unk="0" slat="34.0700" slon="-96.8100" elat="34.0700" elon="-96.7400"/>
+<fatalities yrnum="19" date="2020-04-22" dt="April 22, 2020" time="16:50:00" tz="cst" location="POLK" st="TX" deaths="3" intor="3" insvr="0" nrsvr="0" nowatch="0" watch="WT0133" ef="3" h="0" m="0" o="0" p="0" v="0" unk="3" slat="30.8283" slon="-95.2418" elat="30.8811" elon="-94.7046"/>
+<fatalities yrnum="20" date="2020-04-22" dt="April 22, 2020" time="20:30:00" tz="cst" location="RAPIDES" st="LA" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0135" ef="2" h="0" m="1" o="0" p="0" v="0" unk="0" slat="31.1623" slon="-92.4582" elat="31.1922" elon="-92.3103"/>
+<fatalities yrnum="21" date="2020-05-19" dt="May 18, 2020" time="19:35:00" tz="cst" location="ACADIA" st="LA" deaths="1" intor="0" insvr="0" nrsvr="0" nowatch="1" watch="None" ef="3" h="0" m="1" o="0" p="0" v="0" unk="0" slat="30.4597" slon="-92.2678" elat="30.4176" elon="-92.2234"/>
+<fatalities yrnum="22" date="2020-07-08" dt="July 8, 2020" time="16:10:00" tz="cst" location="OTTER TAIL" st="MN" deaths="1" intor="0" insvr="1" nrsvr="0" nowatch="0" watch="WS0344" ef="4" h="0" m="0" o="0" p="1" v="0" unk="0" slat="46.0953" slon="-95.9420" elat="46.1778" elon="-95.8120"/>
+<fatalities yrnum="23" date="2020-08-03" dt="August 3, 2020" time="23:15:00" tz="cst" location="BERTIE" st="NC" deaths="2" intor="2" insvr="0" nrsvr="0" nowatch="0" watch="WT0414" ef="3" h="0" m="2" o="0" p="0" v="0" unk="0" slat="35.8870" slon="-76.8900" elat="36.0140" elon="-76.9770"/>
+<fatalities yrnum="24" date="2020-08-30" dt="August 30, 2020" time="17:15:00" tz="cst" location="HAND" st="SD" deaths="1" intor="0" insvr="1" nrsvr="0" nowatch="0" watch="WS0475" ef="2" h="0" m="0" o="0" p="0" v="1" unk="0" slat="44.7090" slon="-98.9868" elat="44.7195" elon="-98.9998"/>
+<summary STATE="TN" FATALITIES="27"/>
+<summary STATE="MS" FATALITIES="12"/>
+<summary STATE="GA" FATALITIES="9"/>
+<summary STATE="SC" FATALITIES="8"/>
 <summary STATE="AL" FATALITIES="5"/>
 <summary STATE="LA" FATALITIES="5"/>
 <summary STATE="TX" FATALITIES="4"/>
@@ -36,6 +35,6 @@
 <summary STATE="OK" FATALITIES="2"/>
 <summary STATE="MN" FATALITIES="1"/>
 <summary STATE="SD" FATALITIES="1"/>
-<csummary M="36" H="15" UNK="14" P="8" O="3" V="2"/>
-<total TOTAL="78"/>
+<csummary M="39" H="18" P="9" O="4" UNK="4" V="2"/>
+<total TOTAL="76"/>
 </fatalities>
