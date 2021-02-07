@@ -7,7 +7,7 @@
 <fatalities yrnum="5" date="2020-03-02" dt="March 2, 2020" time="23:10:00" tz="cst" location="BENTON" st="TN" deaths="1" intor="0" insvr="0" nrsvr="1" nowatch="0" watch="WT0035" ef="2" h="0" m="1" o="0" p="0" v="0" unk="0" slat="36.0923" slon="-88.1199" elat="36.1074" elon="-87.7838"/>
 <fatalities yrnum="6" date="2020-03-03" dt="March 3, 2020" time="00:45:00" tz="cst" location="DAVIDSON-WILSON" st="TN" deaths="5" intor="5" insvr="0" nrsvr="0" nowatch="0" watch="WT0036" ef="3" h="2" m="0" o="2" p="1" v="0" unk="0" slat="36.1717" slon="-86.9557" elat="36.1524" elon="-85.8905"/>
 <fatalities yrnum="7" date="2020-03-03" dt="March 3, 2020" time="01:50:00" tz="cst" location="PUTNAM" st="TN" deaths="19" intor="19" insvr="0" nrsvr="0" nowatch="0" watch="WT0036" ef="4" h="12" m="5" o="0" p="2" v="0" unk="0" slat="36.1716" slon="-85.6618" elat="36.1705" elon="-85.5154"/>
-<fatalities yrnum="8" date="2020-04-12" dt="April 12, 2020" time="15:00:00" tz="cst" location="WALTHALL-LAWRENCE" st="MS" deaths="4" intor="4" insvr="0" nrsvr="0" nowatch="0" watch="WT0107" ef="4" h="1" m="2" o="1" p="0" v="0" unk="0" slat="31.2763" slon="-90.1732" elat="31.4017" elon="-89.8505"/>
+<fatalities yrnum="8" date="2020-04-12" dt="April 12, 2020" time="15:00:00" tz="cst" location="WALTHALL-LAWRENCE" st="MS" deaths="4" intor="4" insvr="0" nrsvr="0" nowatch="0" watch="WT0107" ef="4" h="2" m="2" o="0" p="0" v="0" unk="0" slat="31.2763" slon="-90.1732" elat="31.4017" elon="-89.8505"/>
 <fatalities yrnum="9" date="2020-04-12" dt="April 12, 2020" time="15:20:00" tz="cst" location="JEFFERSON DAVIS-JONES" st="MS" deaths="7" intor="7" insvr="0" nrsvr="0" nowatch="0" watch="WT0107" ef="4" h="1" m="1" o="0" p="4" v="0" unk="1" slat="31.4641" slon="-89.7579" elat="32.0720" elon="-88.8649"/>
 <fatalities yrnum="10" date="2020-04-12" dt="April 12, 2020" time="19:50:00" tz="cst" location="MURRAY" st="GA" deaths="8" intor="8" insvr="0" nrsvr="0" nowatch="0" watch="WT0112" ef="2" h="0" m="8" o="0" p="0" v="0" unk="0" slat="34.8098" slon="-84.8377" elat="34.9103" elon="-84.7761"/>
 <fatalities yrnum="11" date="2020-04-12" dt="April 12, 2020" time="21:20:00" tz="cst" location="HAMILTON" st="TN" deaths="2" intor="0" insvr="0" nrsvr="2" nowatch="0" watch="WT0113" ef="3" h="1" m="1" o="0" p="0" v="0" unk="0" slat="34.9407" slon="-85.2582" elat="35.1040" elon="-84.9816"/>
@@ -35,6 +35,6 @@
 <summary STATE="OK" FATALITIES="2"/>
 <summary STATE="MN" FATALITIES="1"/>
 <summary STATE="SD" FATALITIES="1"/>
-<csummary M="39" H="18" P="9" O="4" UNK="4" V="2"/>
+<csummary M="39" H="19" P="9" UNK="4" O="3" V="2"/>
 <total TOTAL="76"/>
 </fatalities>
