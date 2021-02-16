@@ -5,8 +5,8 @@ TORNADO TOTALS AND RELATED DEATHS...THROUGH 15 FEB 2021
 NWS STORM PREDICTION CENTER NORMAN OK
 0200 PM CST TUE FEB 16 2021
 
-     ...NUMBER OF TORNADOES...       NUMBER OF       KILLER
-                                     TORNADO DEATHS  TORNADOES
+     ...NUMBER OF TORNADOES...        NUMBER OF       KILLER
+                                      TORNADO DEATHS  TORNADOES
      ..2021..  2020 2019 2018   3YR              3YR             3YR
     PREL  ACT   ACT  ACT  ACT    AV   21 20 19 18 AV  21 20 19 18 AV
 --- ---- ----  ---- ---- ---- -----   -- -- -- -- --  -- -- -- -- --
