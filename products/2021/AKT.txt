@@ -4,7 +4,7 @@ NWS STORM PREDICTION CENTER NORMAN OK
 
 #    DATE TIME-CST  COUNTIES  STATE DEATHS  A B C D  WATCH EF LOCATION
 --   ---- -------- ---------  ----- ------  -------  ----- -- --------
-01 JAN 25   2245   JEFFERSON     AL      1  1 - - -  WT003  1 01H
+01 JAN 25   2245   JEFFERSON     AL      1  1 - - -  WT003  3 01H
 02 FEB 15   2240   BRUNSWICK     NC      3  - - - 3  -----  3 03H
                                        ___ __ _ _ _
 TOTALS:                                  4  1 - - 3
