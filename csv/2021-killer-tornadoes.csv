@@ -1,2 +1,3 @@
 yrnum,date,dt,time,tz,location,st,deaths,intor,insvr,nrsvr,nowatch,watch,ef,h,m,o,p,v,unk,slat,slon,elat,elon
 1,2021-01-25,"January 25, 2021",22:45:00,cst,JEFFERSON,AL,1,1,0,0,0,WT0003,3,1,0,0,0,0,0,33.5971,-86.8246,33.6539,-86.6810
+2,2021-02-15,"February 15, 2021",22:40:00,cst,BRUNSWICK,NC,3,0,0,0,3,None,3,3,0,0,0,0,0,33.9118,-78.5096,34.1774,-78.3008
