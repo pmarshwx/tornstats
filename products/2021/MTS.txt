@@ -1,9 +1,9 @@
 ZCZC STAMTS ALL
 NWUS21 KWNS 201928
 
-TORNADO TOTALS AND RELATED DEATHS...THROUGH 15 FEB 2021
+TORNADO TOTALS AND RELATED DEATHS...THROUGH 07 MAR 2021
 NWS STORM PREDICTION CENTER NORMAN OK
-0200 PM CST TUE FEB 16 2021
+1200 PM CST MON MAR 08 2021
 
      ...NUMBER OF TORNADOES...        NUMBER OF       KILLER
                                       TORNADO DEATHS  TORNADOES
@@ -11,8 +11,8 @@ NWS STORM PREDICTION CENTER NORMAN OK
     PREL  ACT   ACT  ACT  ACT    AV   21 20 19 18 AV  21 20 19 18 AV
 --- ---- ----  ---- ---- ---- -----   -- -- -- -- --  -- -- -- -- --
 JAN   16    -   86^   22   15    41^   1  7  0  0  2   1  3  0  0  1
-FEB    7    -   42^   27   48    39^   3  1  1  2  1   1  1  1  2  1
-MAR    -    -   83^  107   55    82^   - 25 23  0 16   -  3  1  0  1
+FEB   11    -   42^   27   48    39^   3  1  1  2  1   1  1  1  2  1
+MAR    0    -   83^  107   55    82^   - 25 23  0 16   -  3  1  0  1
 APR    -    -  271^  272  130   224^   - 38  7  1 15   - 13  4  1  6
 MAY    -    -  126^  510  170   269^   -  1  7  1  3   -  1  4  1  2
 JUN    -    -   90^  177  155   141^   -  0  0  0  0   -  0  0  0  0
@@ -23,7 +23,7 @@ OCT    -    -   19^   65  123    69^   -  0  0  0  0   -  0  0  0  0
 NOV    -    -   21^   16   83    40^   -  0  1  3  1   -  0  1  2  1
 DEC    -    -   18^   57   66    47^   -  0  3  1  1   -  0  2  1  1
 --- ---- ---- ----- ---- ---- -----   -- -- -- -- --  -- -- -- -- --
-SUM   23  --- 1075^ 1517 1126  1240^   4 76 42 10 41   2 24 12  9 15
+SUM   27  --- 1075^ 1517 1126  1240^   4 76 42 10 41   2 24 12  9 15
 
 *PRELIMINARY REPORTS.
 ^PRELIMINARY/INCOMPLETE VERSION OF FINAL COUNTS.
@@ -33,4 +33,4 @@ ACT  = ACTUAL TORNADO COUNT BASED ON NWS STORM DATA SUBMISSIONS.
 
 COMPARISONS BETWEEN PRELIMINARY AND ACTUAL COUNTS SHOULD BE AVOIDED.
 
-..MARSH..02/16/2021
+..MARSH..03/08/2021
