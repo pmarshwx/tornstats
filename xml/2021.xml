@@ -2,8 +2,11 @@
 <fatalities>
 <fatalities yrnum="1" date="2021-01-25" dt="January 25, 2021" time="22:45:00" tz="cst" location="JEFFERSON" st="AL" deaths="1" intor="1" insvr="0" nrsvr="0" nowatch="0" watch="WT0003" ef="3" h="1" m="0" o="0" p="0" v="0" unk="0" slat="33.5971" slon="-86.8246" elat="33.6539" elon="-86.6810"/>
 <fatalities yrnum="2" date="2021-02-15" dt="February 15, 2021" time="22:40:00" tz="cst" location="BRUNSWICK" st="NC" deaths="3" intor="0" insvr="0" nrsvr="0" nowatch="3" watch="None" ef="3" h="3" m="0" o="0" p="0" v="0" unk="0" slat="33.9118" slon="-78.5096" elat="34.1774" elon="-78.3008"/>
+<fatalities yrnum="3" date="2021-03-25" dt="March 25, 2021" time="13:40:00" tz="cst" location="CALHOUN" st="AL" deaths="5" intor="0" insvr="0" nrsvr="0" nowatch="0" watch="WT0050" ef="3" h="0" m="4" o="0" p="0" v="0" unk="1" slat="33.7026" slon="-86.1053" elat="33.9872" elon="-85.5309"/>
+<fatalities yrnum="4" date="2021-04-10" dt="April 10, 2021" time="01:10:00" tz="cst" location="ST. LANDRY" st="LA" deaths="1" intor="0" insvr="0" nrsvr="0" nowatch="0" watch="WT0087" ef="3" h="0" m="1" o="0" p="0" v="0" unk="0" slat="30.6660" slon="-91.9586" elat="30.7499" elon="-91.8492"/>
+<summary STATE="AL" FATALITIES="6"/>
 <summary STATE="NC" FATALITIES="3"/>
-<summary STATE="AL" FATALITIES="1"/>
-<csummary H="4" M="0" O="0" P="0" V="0" UNK="0"/>
-<total TOTAL="4"/>
+<summary STATE="LA" FATALITIES="1"/>
+<csummary M="5" H="4" UNK="1" O="0" P="0" V="0"/>
+<total TOTAL="10"/>
 </fatalities>
